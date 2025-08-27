@@ -1,0 +1,24 @@
+//
+//       Requirements
+// [] -1 - ask user, what operation would you like to perform?
+// [] -2 - then user enters one of these options: / * - +
+// [] -3 - if  users enters invalid character, print "that is not a valid
+//          operation" then restart teh program
+// [] -4 - after user enters a valid operation, ask user
+//          'please enter the first number'
+// [] -5 - then user enters the first number, if user enters something that is
+//          not a number, print ' this is not a number' then reask question
+// [] -6 - after valid number is entered, ask user 'please enter the second
+//          number.  perform same error handling as #5
+// [] -7 - then create a function to perform the proper math operation and print
+//          the result as "the result is: X where x is teh actual result
+//       if + , 3, 4 entered the result printed would be "The result is 7."
+//
+//     CANNOT use eval method
+//    BONUS (Optional)
+//        Handle remainders properly (modulo). Example : 9 divided by 4 would
+//        print 2.25
+//     Make the program more elegant by allowing the user to enter an
+//      entire operation on one line such as: "6 / 6" or "5 * 3" (Hint
+//      use arguments to solve this)
+
